@@ -1,4 +1,4 @@
-Trying to add tileset2.png to the overworld tilemap.
+Trying to add tileset2.png to the overworld tilemap and making it visible in the game. Currently only tileset.png functions. It was already implemented before i started with this sample.
 
 
 The steps i did:
