@@ -2,7 +2,7 @@ Trying to add tileset2.png to the overworld tilemap.
 
 
 The steps i did:
-1) Create new tilemap (check embed into map)
+1) Inside Tiled I Create a new tilemap (check embed into map)
 2) Place some tiles of the new tileset on overworld map to test
 3) add code to base.js
    
